@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "A85lkWOQgIjE/esZzwXqtC4jlmKuGuYs8SmdtThYEVkqVlu/25SvL1uDeMeZhJv5CO8rHX0CHM0JSYVwZShhuA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proto\\source\\repos\\HM events\\HM events\\HM events.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
