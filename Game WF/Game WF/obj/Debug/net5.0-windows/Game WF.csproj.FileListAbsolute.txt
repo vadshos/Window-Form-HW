@@ -1,0 +1,19 @@
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.csprojAssemblyReference.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game_WF.Form1.resources
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game_WF.Properties.Resources.resources
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.csproj.GenerateResource.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.AssemblyInfoInputs.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.AssemblyInfo.cs
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.csproj.CoreCompileInputs.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\bin\Debug\net5.0-windows\Game WF.exe
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\bin\Debug\net5.0-windows\Game WF.deps.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\bin\Debug\net5.0-windows\Game WF.runtimeconfig.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\bin\Debug\net5.0-windows\Game WF.runtimeconfig.dev.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\bin\Debug\net5.0-windows\Game WF.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\bin\Debug\net5.0-windows\ref\Game WF.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\bin\Debug\net5.0-windows\Game WF.pdb
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\ref\Game WF.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.pdb
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Game WF\Game WF\obj\Debug\net5.0-windows\Game WF.genruntimeconfig.cache
