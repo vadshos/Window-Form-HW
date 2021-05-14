@@ -543,7 +543,7 @@ namespace Calculator
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 20F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveBorder;
-            this.ClientSize = new System.Drawing.Size(499, 622);
+            this.ClientSize = new System.Drawing.Size(496, 622);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.gbForAngle);
             this.Controls.Add(this.cbTriada);

@@ -1,0 +1,19 @@
+C:\Users\proto\source\repos\Mouse events\Mouse events\bin\Debug\net5.0-windows\Mouse events.exe
+C:\Users\proto\source\repos\Mouse events\Mouse events\bin\Debug\net5.0-windows\Mouse events.deps.json
+C:\Users\proto\source\repos\Mouse events\Mouse events\bin\Debug\net5.0-windows\Mouse events.runtimeconfig.json
+C:\Users\proto\source\repos\Mouse events\Mouse events\bin\Debug\net5.0-windows\Mouse events.runtimeconfig.dev.json
+C:\Users\proto\source\repos\Mouse events\Mouse events\bin\Debug\net5.0-windows\Mouse events.dll
+C:\Users\proto\source\repos\Mouse events\Mouse events\bin\Debug\net5.0-windows\ref\Mouse events.dll
+C:\Users\proto\source\repos\Mouse events\Mouse events\bin\Debug\net5.0-windows\Mouse events.pdb
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.csprojAssemblyReference.cache
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse_events.Form1.resources
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.csproj.GenerateResource.cache
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.AssemblyInfoInputs.cache
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.AssemblyInfo.cs
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.csproj.CoreCompileInputs.cache
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.dll
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\ref\Mouse events.dll
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.pdb
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse events.genruntimeconfig.cache
+C:\Users\proto\source\repos\Mouse events\Mouse events\obj\Debug\net5.0-windows\Mouse_events.Properties.Resources.resources
