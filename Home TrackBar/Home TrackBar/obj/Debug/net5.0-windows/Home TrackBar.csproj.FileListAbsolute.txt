@@ -1,0 +1,21 @@
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\Home TrackBar.exe
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\Home TrackBar.deps.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\Home TrackBar.runtimeconfig.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\Home TrackBar.runtimeconfig.dev.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\Home TrackBar.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\ref\Home TrackBar.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\Home TrackBar.pdb
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.csprojAssemblyReference.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home_TrackBar.Form1.resources
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home_TrackBar.Properties.Resources.resources
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.csproj.GenerateResource.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.AssemblyInfoInputs.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.AssemblyInfo.cs
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.csproj.CoreCompileInputs.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\ref\Home TrackBar.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.pdb
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.genruntimeconfig.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\New folder\Window-Form-HW\Home TrackBar\Home TrackBar\obj\Debug\net5.0-windows\Home TrackBar.csproj.CopyComplete
