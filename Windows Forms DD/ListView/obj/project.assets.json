@@ -54,11 +54,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\proto\\source\\repos\\Windows Forms DD\\ListView\\ListView.csproj",
+      "projectUniqueName": "C:\\Users\\proto\\Dropbox\\My PC (DESKTOP-QUMJQ3P)\\Desktop\\WF git\\Window-Form-HW\\Windows Forms DD\\ListView\\ListView.csproj",
       "projectName": "ListView",
-      "projectPath": "C:\\Users\\proto\\source\\repos\\Windows Forms DD\\ListView\\ListView.csproj",
+      "projectPath": "C:\\Users\\proto\\Dropbox\\My PC (DESKTOP-QUMJQ3P)\\Desktop\\WF git\\Window-Form-HW\\Windows Forms DD\\ListView\\ListView.csproj",
       "packagesPath": "C:\\Users\\proto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\proto\\source\\repos\\Windows Forms DD\\ListView\\obj\\",
+      "outputPath": "C:\\Users\\proto\\Dropbox\\My PC (DESKTOP-QUMJQ3P)\\Desktop\\WF git\\Window-Form-HW\\Windows Forms DD\\ListView\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

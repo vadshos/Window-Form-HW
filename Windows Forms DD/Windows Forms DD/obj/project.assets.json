@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\proto\\source\\repos\\Windows Forms DD\\Windows Forms DD\\Windows Forms DD.csproj",
+      "projectUniqueName": "C:\\Users\\proto\\Dropbox\\My PC (DESKTOP-QUMJQ3P)\\Desktop\\WF git\\Window-Form-HW\\Windows Forms DD\\Windows Forms DD\\Windows Forms DD.csproj",
       "projectName": "Windows Forms DD",
-      "projectPath": "C:\\Users\\proto\\source\\repos\\Windows Forms DD\\Windows Forms DD\\Windows Forms DD.csproj",
+      "projectPath": "C:\\Users\\proto\\Dropbox\\My PC (DESKTOP-QUMJQ3P)\\Desktop\\WF git\\Window-Form-HW\\Windows Forms DD\\Windows Forms DD\\Windows Forms DD.csproj",
       "packagesPath": "C:\\Users\\proto\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\proto\\source\\repos\\Windows Forms DD\\Windows Forms DD\\obj\\",
+      "outputPath": "C:\\Users\\proto\\Dropbox\\My PC (DESKTOP-QUMJQ3P)\\Desktop\\WF git\\Window-Form-HW\\Windows Forms DD\\Windows Forms DD\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
