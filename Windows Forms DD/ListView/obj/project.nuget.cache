@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "tu7blYXOiDPaV1HzbNISTrBaAxQmtAbizH3c+v8PankWP6QxncSK1lMd6Vnq9zaWwNLhy6qZD6FbxRQueusd/w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\proto\\source\\repos\\Windows Forms DD\\ListView\\ListView.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\proto\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
