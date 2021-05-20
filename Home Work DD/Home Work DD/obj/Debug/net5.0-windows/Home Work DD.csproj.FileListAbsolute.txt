@@ -1,0 +1,18 @@
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\bin\Debug\net5.0-windows\Home Work DD.exe
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\bin\Debug\net5.0-windows\Home Work DD.deps.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\bin\Debug\net5.0-windows\Home Work DD.runtimeconfig.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\bin\Debug\net5.0-windows\Home Work DD.runtimeconfig.dev.json
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\bin\Debug\net5.0-windows\Home Work DD.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\bin\Debug\net5.0-windows\ref\Home Work DD.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\bin\Debug\net5.0-windows\Home Work DD.pdb
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.csprojAssemblyReference.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home_Work_DD.Form1.resources
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.csproj.GenerateResource.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.AssemblyInfoInputs.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.AssemblyInfo.cs
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.csproj.CoreCompileInputs.cache
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\ref\Home Work DD.dll
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.pdb
+C:\Users\proto\Dropbox\My PC (DESKTOP-QUMJQ3P)\Desktop\WF git\Window-Form-HW\Home Work DD\Home Work DD\obj\Debug\net5.0-windows\Home Work DD.genruntimeconfig.cache
